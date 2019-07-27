@@ -1,2 +1,2 @@
 # SensorData
-Test reportory containing data collected by sensors.
+Test repository containing data collected by sensors.
